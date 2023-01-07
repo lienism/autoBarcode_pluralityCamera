@@ -1,0 +1,9 @@
+c:\users\ft20180723\source\repos\AutoBarcodePicture\AutoBarcodePicture\bin\Debug\AutoBarcodePicture.exe.config
+c:\users\ft20180723\source\repos\AutoBarcodePicture\AutoBarcodePicture\bin\Debug\AutoBarcodePicture.exe
+c:\users\ft20180723\source\repos\AutoBarcodePicture\AutoBarcodePicture\bin\Debug\AutoBarcodePicture.pdb
+c:\users\ft20180723\source\repos\AutoBarcodePicture\AutoBarcodePicture\bin\Debug\libzbar-cil.dll
+c:\users\ft20180723\source\repos\AutoBarcodePicture\AutoBarcodePicture\obj\Debug\AutoBarcodePicture.csprojAssemblyReference.cache
+c:\users\ft20180723\source\repos\AutoBarcodePicture\AutoBarcodePicture\obj\Debug\AutoBarcodePicture.csproj.CoreCompileInputs.cache
+c:\users\ft20180723\source\repos\AutoBarcodePicture\AutoBarcodePicture\obj\Debug\AutoBarcodePicture.csproj.CopyComplete
+c:\users\ft20180723\source\repos\AutoBarcodePicture\AutoBarcodePicture\obj\Debug\AutoBarcodePicture.exe
+c:\users\ft20180723\source\repos\AutoBarcodePicture\AutoBarcodePicture\obj\Debug\AutoBarcodePicture.pdb
